@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashish0o7
-- 🌱 I’m currently learning Python, DSA, DBMS.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me-> ashishkb0o99@gmail.com
 
 <!---
