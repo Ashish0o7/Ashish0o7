@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashish0o7
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me-> ashishkb0o99@gmail.com
 
 <!---
