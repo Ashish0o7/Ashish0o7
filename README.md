@@ -3,7 +3,6 @@
 Ashish0o7/Ashish0o7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-a<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish0o7&label=Profile%20views&color=0e75b6&style=flat" alt="ashish0o7" /> </p>
 
