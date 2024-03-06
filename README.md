@@ -41,7 +41,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ashish0o7/Ashish0o7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ashish0o7/Ashish0o7/output/snake.svg" alt="Something I guess" />
 
 ###
 
