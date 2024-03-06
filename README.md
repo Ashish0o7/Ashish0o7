@@ -4,13 +4,14 @@
 
 ###
 
-<p align="left">Hey, Ashish here.<br>You can reach out to me here : ashishkb0o99@gmail.com 
+
 <div align="left">
+  <p align="left">Hey, Ashish here.<br>You can reach out to me here : </p>
   <a href="mailto:ashishkb0o99@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-</p>
+
 
 ### Skills
 
