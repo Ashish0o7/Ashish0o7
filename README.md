@@ -4,7 +4,13 @@
 
 ###
 
-<p align="left">Hey, Ashish here.<br>You can reach out to me here : ashishkb0o99@gmail.com</p>
+<p align="left">Hey, Ashish here.<br>You can reach out to me here : ashishkb0o99@gmail.com 
+<div align="left">
+  <a href="mailto:ashishkb0o99@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+</p>
 
 ###
 
@@ -37,11 +43,5 @@
 <img src="https://raw.githubusercontent.com/Ashish0o7/Ashish0o7/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="left">
-  <a href="mailto:ashishkb0o99@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
