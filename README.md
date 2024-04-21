@@ -12,6 +12,12 @@
   </a>
 </div>
 
+<div align="center">
+  <h2>My CV </h2>
+  <a href="https://drive.google.com/file/d/1XrKZ33_YWtOnN8riedgx-MLllweSSHeA/view?usp=sharing" target="_blank">
+    <img src="https://static-00.iconduck.com/assets.00/cv-icon-431x512-62w34ad6.png" width="100" height="100" alt="CV Icon" />
+  </a>
+</div>
 
 ### Skills
 
