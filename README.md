@@ -13,12 +13,11 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
- <div style="display: flex; align-items: center;">
- 
-  <a href="https://drive.google.com/file/d/1XrKZ33_YWtOnN8riedgx-MLllweSSHeA/view?usp=sharing" target="_blank"><p> My CV </p>
+  <a href="https://drive.google.com/file/d/1XrKZ33_YWtOnN8riedgx-MLllweSSHeA/view?usp=sharing" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/cv-icon-431x512-62w34ad6.png" width="40" height="40" alt="CV Icon" />
+    
   </a>
-</div>
+
 </div>
 
 >
