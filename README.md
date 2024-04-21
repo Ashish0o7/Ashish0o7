@@ -10,14 +10,14 @@
   <a href="mailto:ashishkb0o99@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
 
-<div align="center">
-  <h2>My CV </h2>
+ <p align="left">My CV : </p>
   <a href="https://drive.google.com/file/d/1XrKZ33_YWtOnN8riedgx-MLllweSSHeA/view?usp=sharing" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/cv-icon-431x512-62w34ad6.png" width="100" height="100" alt="CV Icon" />
   </a>
 </div>
+
+>
 
 ### Skills
 
